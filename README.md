@@ -1,19 +1,19 @@
-👋 Hey there, I'm Syrus Wahome
+ Hey there, I'm Syrus Wahome
 
-🎯 Cybersecurity Enthusiast | 🧠 Ethical Hacker in Training | 📈 Forex Pro   
-📍 Based in Africa | 💪 Always leveling up
+ Cybersecurity Enthusiast |  Ethical Hacker in Training |  Forex Pro   
+ Based in Africa |  Always leveling up
 
 
 
- 🚀 What I'm Working On
-- 🔐 Building advanced penetration testing tools
-- 🧠 Mastering ethical hacking, digital forensics, and network security
-- 💡 AI assistant with voice and automation capabilities
-- 🛠 Creating a mobile location-sharing app
+  What I'm Working On
+-  Building advanced penetration testing tools
+-  Mastering ethical hacking, digital forensics, and network security
+-  AI assistant with voice and automation capabilities
+-  Creating a mobile location-sharing app
 
 ---
 
-🧰 Tech Stack
+ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
